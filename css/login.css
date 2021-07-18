@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#d5d6d4;;
+}
+.box{
+    width: 80%;
+    height: 100vh;
+    background-color: #004aad;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: auto;
+    display: flex;
+    flex-direction: column;
+}
+h1,a{
+    font-family: 'Oswald',sans-serif;
+    font-size: 5vw;
+}
+h1{
+    color: white;
+}
+a{
+    background-color: white;
+    color:#004aad;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.limitador{
+    width: 45vw;
+    height: 5vw;
+    margin: 15vh auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    text-align: center;
+    height: 5vw;
+    margin: 2vw;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+button{
+    width: 20vw;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 5vw auto;
+}
+
+
