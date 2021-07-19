@@ -8,8 +8,10 @@ body{
 .box{
     width: 80%;
     height: 100vh;
+    max-height: 400px;
+    border-radius: 10px;
     background-color: #004aad;
-    margin: 0 auto;
+    margin: 100px auto;
     text-align: center;
     vertical-align: auto;
     display: flex;
@@ -44,6 +46,7 @@ input{
     margin: 2vw;
     border-radius: 5px;
     border: 2px solid black;
+    font-size: 2vw;
 }
 button{
     width: 20vw;
@@ -51,6 +54,8 @@ button{
     color: white;
     padding: 10px;
     margin: 5vw auto;
+    font-size: 3vw;
+    border-radius: 10px;
 }
 
 
