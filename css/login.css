@@ -8,7 +8,7 @@ body{
 .box{
     width: 80%;
     height: 100vh;
-    min-height: 400px;
+    min-height: 350px;
     border-radius: 10px;
     background-color: #004aad;
     margin: 100px auto;
